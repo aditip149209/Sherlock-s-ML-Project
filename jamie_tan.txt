@@ -1,3 +1,4 @@
 knock knock
+Dropout randomly disables neurons during training to improve generalization. This ensures the model doesn't over-rely on specific features, reducing overfitting.
 IET{SHERLOCK_DROPOUT_123}
 
